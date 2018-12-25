@@ -46,10 +46,6 @@ markdown: kramdown
 feed:
   path: atom.xml
 
-# Pagination - https://jekyllrb.com/docs/pagination/
-# paginate: 10
-# paginate_path: /page:num/
-
 # Search
 search_full_content: false # can have performance implications for large sites
 
@@ -75,6 +71,10 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
+
 # Front Matter Defaults
 defaults:
   # Posts defaults
@@ -86,10 +86,10 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name:
+author: 
+  name: Dewey Sia
   picture:
-  email:
+  email: deweysia@gmail.com
   twitter:
   links:
     - title:
@@ -101,5 +101,3 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
-
-remote_theme: "mmistakes/so-simple-theme"
