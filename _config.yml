@@ -101,3 +101,6 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+# custom collections directory
+collections_dir: collections
