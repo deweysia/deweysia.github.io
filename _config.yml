@@ -102,5 +102,8 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
 
+collections:
+  projects:
+    output: true
 # custom collections directory
-collections_dir: collections
+# collections_dir: collections
