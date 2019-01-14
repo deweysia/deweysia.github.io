@@ -84,6 +84,11 @@ defaults:
     values:
       layout: post
       share: true
+  - scope:
+      path: "_projects"
+      type: "pages"
+    values:
+      layout: post
 
 # Site Author
 author: 
