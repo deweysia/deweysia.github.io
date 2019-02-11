@@ -97,15 +97,24 @@ author:
   email: deweysia@gmail.com
   twitter:
   links:
-    - title:
-      url:
-      icon:
+    - title: GitHub
+      url: https://www.github.com/deweysia
+      icon: fab fa-github-square
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/dewey-sia-2334b0101
+      icon: fab fa-linkedin
 
 # Footer Links
 footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: GitHub
+    url: https://www.github.com/deweysia
+    icon: fab fa-github-square
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/dewey-sia-2334b0101
+    icon: fab fa-linkedin
 
 collections:
   projects:
