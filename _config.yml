@@ -93,7 +93,7 @@ defaults:
 # Site Author
 author: 
   name: Dewey Sia
-  picture:
+  picture: /images/profile_picture.png
   email: deweysia@gmail.com
   twitter:
   links:
